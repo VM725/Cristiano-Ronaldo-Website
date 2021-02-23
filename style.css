@@ -1,0 +1,62 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    color: lime;
+    padding-top: 20px;
+}
+#home{
+    background-color: black;
+    padding: 20px;
+}
+#img1{
+    height: 600px;
+    width: 400px;
+    border: 2px solid lime;
+    border-radius: 10%;
+}
+#p1{
+    font-size: 25px;
+    word-spacing: 5px;
+}
+.menu{
+    z-index: 10;
+    list-style: none;
+    position: fixed;
+    cursor: pointer;
+    background-color: white;
+    padding: 5px;
+    color: lime;
+    font-weight: 1000;
+    right: 30px;
+}
+.list{
+    padding-right: 15px;
+    font-size: 20px;
+    font-family:serif;
+    letter-spacing: 2.5px;
+    display: inline;
+}
+.list:hover{
+    color: lime;
+    text-decoration: underline;
+}
+#brand a{
+    font-size: 30px;
+    color: lime;
+}
+.contact_1 h3{
+display: inline;
+font-size: 30px;
+    color: lime;
+}
+.contact_1 i{
+    font-size: 30px;
+}
+.contact_1 a{
+    text-decoration: none;
+}
+.menu a{
+    color: lime;
+}
